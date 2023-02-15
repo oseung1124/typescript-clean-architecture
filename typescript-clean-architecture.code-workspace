@@ -17,8 +17,8 @@
             "path": "packages/di"
         },
         {
-            "name": "presentation",
-            "path": "packages/presentation"
+            "name": "react-presentation",
+            "path": "packages/react-presentation"
         }
     ],
     "settings": {}
